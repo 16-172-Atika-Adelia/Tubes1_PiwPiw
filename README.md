@@ -1,4 +1,4 @@
-# Pemanfaatan Algoritma Greedy dalam Pembuatan Bot Permainan Diamonds
+# Algoritma Greedy Pada Bot Permainan Diamonds
 ## Cara Kerja Algoritma
 Cara kerja algoritma greedy1 ini mengadopsi strategi sistematis dan adaptif dengan mengutamakan efisiensi pengumpulan diamond melalui pemilihan target terdekat, baik secara langsung maupun dengan memanfaatkan teleporter.Berkat kemampuannya mengoptimalkan penggunaan red button untuk menghambat lawan dan teleporter untuk bergerak cepat. Pada mode multiplayer, Greedy1 tampil unggul karena tidak hanya fokus pada satu musuh, melainkan mempertimbangkan situasi permainan secara menyeluruh. Dengan pengambilan keputusan berbasis jarak, waktu, dan jumlah diamond, Greedy1 menjadi strategi yang kompetitif dan efektif di berbagai skenario permainan.
 
