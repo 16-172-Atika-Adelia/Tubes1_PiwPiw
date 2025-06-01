@@ -1,8 +1,8 @@
 # Pemanfaatan Algoritma Greedy dalam pembuatan bot permainan Diamonds
 ## Cara Kerja Algoritma
-Backbone dari algoritma ini adalah dengan strategi Greedy. Terdapat berbagai cara pengimplementasian algoritma ini namun kita memilih untuk menggunakan Greedy by Distance and Priority with Conditional Heuristics dimana kita pada dasarnya mementingkan jarak namun dalam hal itu juga mempertimbangkan beberapa hal yang di prioritaskan seperti kembali ke base jika kantong sudah penuh dan juga menyerang musuh jika jarak sudah dekat. Dengan itu kami berharap bahwa saat mengambil keputusan terbaik pada waktu itu kita dapat mencapai keuntungan maksimum pada skala global.
+Cara kerja algoritma greedy1 ini mengadopsi strategi sistematis dan adaptif dengan mengutamakan efisiensi pengumpulan diamond melalui pemilihan target terdekat, baik secara langsung maupun dengan memanfaatkan teleporter.Berkat kemampuannya mengoptimalkan penggunaan red button untuk menghambat lawan dan teleporter untuk bergerak cepat. Pada mode multiplayer, Greedy1 tampil unggul karena tidak hanya fokus pada satu musuh, melainkan mempertimbangkan situasi permainan secara menyeluruh. Dengan pengambilan keputusan berbasis jarak, waktu, dan jumlah diamond, Greedy1 menjadi strategi yang kompetitif dan efektif di berbagai skenario permainan.
 
-## Setup
+## Setup (Hal yang perlu didownload)
 
 Silahkan mengunduh python pada [link ini](https://www.python.org/downloads/). Kemudian dibutuhkan juga game engine pada [link ini](https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0) dan juga starter pack bot yang bisa didapatkan pada [link ini](https://github.com/haziqam/tubes1-IF2211-bot-starter-pack/releases/tag/v1.0.1), untuk tutorial pemasangan game engine dan juga penjalanan starter pack bot dapat dilihat pada [link ini](https://docs.google.com/document/d/1L92Axb89yIkom0b24D350Z1QAr8rujvHof7-kXRAp7c/edit).
 
@@ -10,17 +10,17 @@ Silahkan mengunduh python pada [link ini](https://www.python.org/downloads/). Ke
 
 Untuk menjalankan bot kita pada project ini cukup ketikkan ini pada shell
 
-Untuk Windows
+Untuk Pengguna Windows
 shell
-start cmd /c "python main.py --logic Greedy --email=janggar@email.com --name=Wadas --password=123456 --team etimo"
+start cmd /c "python main.py --logic Greedy1 --email=greedy1@email.com --name=greedy1 --password=149 --team etimo"
 
 
-Untuk Linux dan MacOS
+Untuk PenggunaLinux dan MacOS
 shell
-python3 main.py --logic Greedy --email=janggar@email.com --name=Wadas --password=123456 --team etimo &
+python3 main.py --logic Greedy1 --email=greedy1@email.com --name=greedy1 --password=149 --team etimo &
 
 
 ## Links
-- [Spesifikasi Tugas Besar 1 IF2211 Strategi Algoritma Semester II tahun 2023/2024](https://docs.google.com/document/d/13cbmMVXviyu8eKQ6heqgDzt4JNNMeAZO/edit).
-- [This Repository](https://github.com/FrancescoMichael/Tubes1_Wadas-Janggar)
-- [Laporan](https://docs.google.com/document/d/1bSYNi0zlVor9MehvM3DFhBvhNNDHoutrBIRpKqBsTAk/edit)
+- [Spesifikasi Tugas Besar 1 IF2211 Strategi Algoritma Semester 4 tahun 2025](https://docs.google.com/document/d/13cbmMVXviyu8eKQ6heqgDzt4JNNMeAZO/edit).
+- [This Repository](https://github.com/16-172-Atika-Adelia/Tubes1_PiwPiw)
+- [Laporan Tugas Besar](https://docs.google.com/document/d/1ec-niugHqByDcoTNUn-lEtTWevD6_lkJqNaLj-Ks3SM/edit?usp=sharing)
