@@ -2,20 +2,20 @@
 ## Cara Kerja Algoritma
 Cara kerja algoritma greedy1 ini mengadopsi strategi sistematis dan adaptif dengan mengutamakan efisiensi pengumpulan diamond melalui pemilihan target terdekat, baik secara langsung maupun dengan memanfaatkan teleporter.Berkat kemampuannya mengoptimalkan penggunaan red button untuk menghambat lawan dan teleporter untuk bergerak cepat. Pada mode multiplayer, Greedy1 tampil unggul karena tidak hanya fokus pada satu musuh, melainkan mempertimbangkan situasi permainan secara menyeluruh. Dengan pengambilan keputusan berbasis jarak, waktu, dan jumlah diamond, Greedy1 menjadi strategi yang kompetitif dan efektif di berbagai skenario permainan.
 
-## Setup (Hal yang perlu didownload)
+## Hal yang perlu didownload
 
 Silahkan mengunduh python pada [link ini](https://www.python.org/downloads/). Kemudian dibutuhkan juga game engine pada [link ini](https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0) dan juga starter pack bot yang bisa didapatkan pada [link ini](https://github.com/haziqam/tubes1-IF2211-bot-starter-pack/releases/tag/v1.0.1), 
 
-## Usage (Cara Run)
+## Cara Run
 
 Untuk menjalankan bot kita pada project ini cukup ketikkan ini pada shell
 
-Untuk Pengguna Windows
+Pengguna Windows
 shell
 start cmd /c "python main.py --logic Greedy1 --email=greedy1@email.com --name=greedy1 --password=149 --team etimo"
 
 
-Untuk Pengguna Linux dan MacOS
+Pengguna Linux dan MacOS
 shell
 python3 main.py --logic Greedy1 --email=greedy1@email.com --name=greedy1 --password=149 --team etimo &
 
