@@ -4,7 +4,7 @@ Cara kerja algoritma greedy1 ini mengadopsi strategi sistematis dan adaptif deng
 
 ## Hal yang perlu didownload
 
-Silahkan mengunduh python pada [link ini](https://www.python.org/downloads/). Kemudian download game engine pada [link ini](https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0) dan download starter pack bot yang bisa didapatkan pada [link ini](https://github.com/haziqam/tubes1-IF2211-bot-starter-pack/releases/tag/v1.0.1), 
+Silahkan mengunduh python pada [link ini : python.org](https://www.python.org/downloads/). Kemudian download game engine pada [link ini : release game engine](https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0) dan download starter pack bot yang bisa didapatkan pada [link ini :  release bot starter pack](https://github.com/haziqam/tubes1-IF2211-bot-starter-pack/releases/tag/v1.0.1), 
 
 ## Cara Run
 
