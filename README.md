@@ -20,12 +20,12 @@ shell
 python3 main.py --logic Greedy1 --email=greedy1@email.com --name=greedy1 --password=149 --team etimo &
 
 
-## Links
+## Link Mengenai Tugas Besar
 - [Spesifikasi Tugas Besar 1 IF2211 Strategi Algoritma Semester 4 tahun 2025](https://docs.google.com/document/d/13cbmMVXviyu8eKQ6heqgDzt4JNNMeAZO/edit).
-- [This Repository](https://github.com/16-172-Atika-Adelia/Tubes1_PiwPiw)
-- [Laporan Tugas Besar](https://docs.google.com/document/d/1ec-niugHqByDcoTNUn-lEtTWevD6_lkJqNaLj-Ks3SM/edit?usp=sharing)
+- [Link Github Kelompok PiwPiw](https://github.com/16-172-Atika-Adelia/Tubes1_PiwPiw)
+- [Laporan Tugas Besar Kelompok PiwPiw](https://docs.google.com/document/d/1ec-niugHqByDcoTNUn-lEtTWevD6_lkJqNaLj-Ks3SM/edit?usp=sharing)
 
-##Nama Anggota Kelompok PiwPiw 
+## Nama Anggota Kelompok PiwPiw 
 1. Fadzilah Saputri (NIM.123140149)
 2. Hildyah Maretasya Araffad (NIM.123140151)
 3. Atika Adelia (NIM.123140172)
