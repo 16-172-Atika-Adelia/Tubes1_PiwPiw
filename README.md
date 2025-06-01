@@ -1,12 +1,12 @@
-# Pemanfaatan Algoritma Greedy dalam pembuatan bot permainan Diamonds
+# Pemanfaatan Algoritma Greedy dalam Pembuatan Bot Permainan Diamonds
 ## Cara Kerja Algoritma
 Cara kerja algoritma greedy1 ini mengadopsi strategi sistematis dan adaptif dengan mengutamakan efisiensi pengumpulan diamond melalui pemilihan target terdekat, baik secara langsung maupun dengan memanfaatkan teleporter.Berkat kemampuannya mengoptimalkan penggunaan red button untuk menghambat lawan dan teleporter untuk bergerak cepat. Pada mode multiplayer, Greedy1 tampil unggul karena tidak hanya fokus pada satu musuh, melainkan mempertimbangkan situasi permainan secara menyeluruh. Dengan pengambilan keputusan berbasis jarak, waktu, dan jumlah diamond, Greedy1 menjadi strategi yang kompetitif dan efektif di berbagai skenario permainan.
 
 ## Setup (Hal yang perlu didownload)
 
-Silahkan mengunduh python pada [link ini](https://www.python.org/downloads/). Kemudian dibutuhkan juga game engine pada [link ini](https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0) dan juga starter pack bot yang bisa didapatkan pada [link ini](https://github.com/haziqam/tubes1-IF2211-bot-starter-pack/releases/tag/v1.0.1), untuk tutorial pemasangan game engine dan juga penjalanan starter pack bot dapat dilihat pada [link ini](https://docs.google.com/document/d/1L92Axb89yIkom0b24D350Z1QAr8rujvHof7-kXRAp7c/edit).
+Silahkan mengunduh python pada [link ini](https://www.python.org/downloads/). Kemudian dibutuhkan juga game engine pada [link ini](https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0) dan juga starter pack bot yang bisa didapatkan pada [link ini](https://github.com/haziqam/tubes1-IF2211-bot-starter-pack/releases/tag/v1.0.1), 
 
-## Usage
+## Usage (Cara Run)
 
 Untuk menjalankan bot kita pada project ini cukup ketikkan ini pada shell
 
