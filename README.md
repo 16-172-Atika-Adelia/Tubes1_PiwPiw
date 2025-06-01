@@ -15,7 +15,7 @@ shell
 start cmd /c "python main.py --logic Greedy1 --email=greedy1@email.com --name=greedy1 --password=149 --team etimo"
 
 
-Untuk PenggunaLinux dan MacOS
+Untuk Pengguna Linux dan MacOS
 shell
 python3 main.py --logic Greedy1 --email=greedy1@email.com --name=greedy1 --password=149 --team etimo &
 
